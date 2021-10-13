@@ -8,4 +8,4 @@ This repository contains solutions to the problem set from Stanford CS229 Machin
 
 I did these problem sets to consolidate knowledge I learnt from (1) as a preparation towards [real life project](https://github.com/lingminhao/Explainable-Machine-Learning-Classification-using-Wing-Venation-Data). 
 
-In addition to these, I obtained the Machine Learning Certificate by Coursera. 
+In addition to these, I obtained the Stanford Machine Learning Specialization Certificate by Coursera. 
