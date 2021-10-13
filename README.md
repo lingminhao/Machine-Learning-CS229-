@@ -7,3 +7,5 @@ This repository contains solutions to the problem set from Stanford CS229 Machin
 (2) [Stanford CS229 Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 I did these problem sets to consolidate knowledge I learnt from (1) as a preparation towards [real life project](https://github.com/lingminhao/Explainable-Machine-Learning-Classification-using-Wing-Venation-Data). 
+
+In addition to these, I obtained the Machine Learning Certificate by Coursera. 
