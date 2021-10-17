@@ -10,3 +10,5 @@ I did these problem sets to consolidate knowledge I learnt from (1) as a prepara
 
 In addition to these, I obtained the Stanford Machine Learning Specialization Certificate by Coursera. 
 Here is the link to have a look to the [Certificate](https://coursera.org/share/98d3fe9ce9a32656d17f2f1aac277f24). ![Certificate](https://github.com/lingminhao/Machine-Learning-CS229-/blob/main/Certificate.png)
+
+Note: It is better to view the ipynb file directly on computer rather than github because the equations are not rendered well. 
