@@ -1,5 +1,5 @@
 # Machine-Learning-CS229-
-### Note: It is better to view the ipynb file directly on computer rather than github because the equations are not rendered well. 
+### <span style="color: red;">Note: It is better to view the ipynb file directly on computer rather than github because the equations are not rendered well. </span>
 
 This repository contains solutions to the problem set from Stanford CS229 Machine Learning. I completed these problem sets by studying on my own with reference to:
 
